@@ -4,7 +4,7 @@ Nộp kèm thin SPEC cuối Day 05.
 
 ## 1. Nhóm và track
 
-**Tên nhóm: Nhóm ABC**  
+**Tên nhóm: Nhóm trái ngoài cùng**  
 **Track:** Food Delivery  
 **Product/app đã chọn: GrabFood**  
 **Build slice đang nghĩ:** AI Balanced Diet Agent - Trợ lý AI gợi ý thực đơn cân bằng dinh dưỡng (ước lượng Calories, Carb, Protein, Fat)

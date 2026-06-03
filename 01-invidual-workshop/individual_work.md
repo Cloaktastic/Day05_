@@ -7,10 +7,10 @@
 - Khi user sửa lại câu trả lời thì AI vẫn giữ nguyên câu trả lời ban đầu.
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="01-invidual-workshop/images/promises.png" width="250" alt="Promises" />
-  <img src="01-invidual-workshop/images/Image1.png" width="250" alt="Evidence1" />
-  <img src="01-invidual-workshop/images/image2.png" width="250" alt="Evidence2" />
-  <img src="01-invidual-workshop/images/image3.png" width="250" alt="Evidence3" />
+  <img src="images/promises.png" width="250" alt="Promises" />
+  <img src="images/Image1.png" width="250" alt="Evidence1" />
+  <img src="images/image2.png" width="250" alt="Evidence2" />
+  <img src="images/image3.png" width="250" alt="Evidence3" />
 </div>
 
 ## 3. 4 Paths
