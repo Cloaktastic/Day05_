@@ -62,7 +62,6 @@ Nếu user chọn chế độ ăn kiêng nghiêm ngặt (ví dụ: Keto hoặc L
 AI có thể phân tích sai thành phần ẩn trong nước sốt (như bột năng hoặc đường tinh luyện),
 hậu quả là user nạp thừa tinh bột/đường, phá vỡ quá trình ăn kiêng.
 Prototype sẽ xử lý bằng cách hiển thị cảnh báo rõ ràng ("Nước sốt đi kèm món này có thể chứa đường/bột - bạn nên yêu cầu quán để riêng sốt") và hiển thị dải calo ước tính tối đa.
-Owner kiểm thử path này là Trần Thị B.
 ```
 
 ## 8. Owner plan cho sáng Day 06

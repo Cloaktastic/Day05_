@@ -68,18 +68,19 @@ Build slice tốt phải qua 5 câu hỏi:
 Điền câu này trước khi rời lớp:
 
 ```text
-Dựa trên [evidence],
-nhóm sẽ build [prototype slice],
-cho [user],
-để giải quyết [pain],
-bằng cách AI [augment/automate task],
-và sẽ test failure path [failure mode].
+Dựa trên phản hồi về việc khó tìm món ăn cân đối và thiếu thông tin dinh dưỡng (Image2.jpg, Image3.jpg),
+nhóm sẽ build mẫu thử Trợ lý AI gợi ý thực đơn (AI Balanced Diet Agent),
+cho nhân viên văn phòng bận rộn đặt cơm trưa trên GrabFood,
+để giải quyết khó khăn trong việc tính toán calo và duy trì chế độ dinh dưỡng khi ăn ngoài tiệm,
+bằng cách AI tự động ước lượng calo/macros và gợi ý combo kết hợp món ăn phụ (rau, súp) phù hợp mục tiêu sức khỏe,
+và sẽ test failure path khi AI nhận diện sai thành phần ẩn nhiều đường/calo trong nước sốt.
 ```
 
 ## 7. Backlog
 
 Những thứ **không build trong Day 06**:
 
-- 
-- 
-- 
+- Tính năng kết nối tài khoản thanh toán và đặt hàng thực tế qua API của Grab.
+- Đồng bộ hóa lịch sử dinh dưỡng hàng ngày/hàng tuần với các ứng dụng sức khỏe (Apple Health, Google Fit).
+- Gợi ý món ăn thông minh theo định vị GPS thời gian thực.
+- Cơ sở dữ liệu dinh dưỡng chi tiết được kiểm chứng lâm sàng cho toàn bộ các quán ăn (chỉ demo dữ liệu do AI phân tích trên menu của một nhóm quán tiêu biểu).
