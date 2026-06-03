@@ -69,8 +69,7 @@ Owner kiểm thử path này là Trần Thị B.
 
 | Thành viên | Việc phụ trách | Bằng chứng cần có trong repo |
 |---|---|---|
-| Nguyễn Văn A | Research / evidence | Tổng hợp tài liệu khảo sát người dùng và ảnh chụp màn hình điểm gãy. |
-| Trần Thị B | SPEC | Hoàn thiện tài liệu Thin SPEC và các kịch bản test 4 paths. |
-| Lê Văn C | Prototype | Mã nguồn frontend/backend của chatbot gợi ý món ăn dinh dưỡng. |
-| Phạm Thị D | Test / failure path | Kịch bản kiểm thử tự động/thủ công cho Failure Path và Correction Path. |
-| Nguyễn Văn A | Demo script / repo | Kịch bản trình bày demo 3 phút và README hướng dẫn chạy prototype. |
+|Nguyễn Đoàn Gia Tuấn| Research / evidence | Tổng hợp tài liệu khảo sát người dùng và ảnh chụp màn hình điểm gãy. |
+|Nguyễn Minh Đức| SPEC | Hoàn thiện tài liệu Thin SPEC và các kịch bản test 4 paths. |
+|Phạm Văn Sơn| Prototype | Mã nguồn frontend/backend của chatbot gợi ý món ăn dinh dưỡng. |
+
