@@ -62,13 +62,16 @@ Nếu user chọn chế độ ăn kiêng nghiêm ngặt (ví dụ: Keto hoặc L
 AI có thể phân tích sai thành phần ẩn trong nước sốt (như bột năng hoặc đường tinh luyện),
 hậu quả là user nạp thừa tinh bột/đường, phá vỡ quá trình ăn kiêng.
 Prototype sẽ xử lý bằng cách hiển thị cảnh báo rõ ràng ("Nước sốt đi kèm món này có thể chứa đường/bột - bạn nên yêu cầu quán để riêng sốt") và hiển thị dải calo ước tính tối đa.
+Owner kiểm thử path này là Nguyễn Minh Đức.
 ```
 
 ## 8. Owner plan cho sáng Day 06
 
 | Thành viên | Việc phụ trách | Bằng chứng cần có trong repo |
 |---|---|---|
-|Nguyễn Đoàn Gia Tuấn| Research / evidence | Tổng hợp tài liệu khảo sát người dùng và ảnh chụp màn hình điểm gãy. |
-|Nguyễn Minh Đức| SPEC | Hoàn thiện tài liệu Thin SPEC và các kịch bản test 4 paths. |
-|Phạm Văn Sơn| Prototype | Mã nguồn frontend/backend của chatbot gợi ý món ăn dinh dưỡng. |
+| Nguyễn Đoàn Gia Tuấn | Research / evidence | Tổng hợp tài liệu khảo sát người dùng và ảnh chụp màn hình điểm gãy. |
+| Nguyễn Minh Đức | SPEC | Hoàn thiện tài liệu Thin SPEC và các kịch bản test 4 paths. |
+| Phạm Văn Sơn | Prototype | Mã nguồn frontend/backend của chatbot gợi ý món ăn dinh dưỡng. |
+| Nguyễn Minh Đức | Test / failure path | Kịch bản kiểm thử tự động/thủ công cho Failure Path và Correction Path. |
+| Nguyễn Đoàn Gia Tuấn | Demo script / repo | Kịch bản trình bày demo 3 phút và README hướng dẫn chạy prototype. |
 
