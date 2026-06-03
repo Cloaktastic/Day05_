@@ -4,10 +4,10 @@ Nộp kèm thin SPEC cuối Day 05.
 
 ## 1. Nhóm và track
 
-**Tên nhóm:**  
-**Track:**  
-**Product/app đã chọn:**  
-**Build slice đang nghĩ:**  
+**Tên nhóm: Nhóm ABC**  
+**Track:** Food Delivery  
+**Product/app đã chọn: GrabFood**  
+**Build slice đang nghĩ:** AI Dietary & Allergy Assistant - Trợ lý AI lọc và xác thực món ăn theo chế độ ăn kiêng (Keto, Vegan, Clean Eating...) hoặc dị ứng (lactose, gluten, đậu phộng...) trực tiếp trên menu của nhà hàng.
 
 ## 2. Self-use evidence
 
@@ -69,4 +69,5 @@ Ghi rõ 1-2 thay đổi quan trọng:
 Trước evidence, nhóm định...
 Sau evidence, nhóm đổi thành...
 Lý do:
+Bằng chứng thực tế cho thấy nhu cầu tìm kiếm an toàn dinh dưỡng cực kỳ cấp thiết và gây mất thời gian lớn cho user. Việc dùng AI để đọc hiểu thành phần ẩn trong menu giải quyết tốt bài toán này hơn là việc chỉ gợi ý món ăn ngẫu nhiên (vốn có thể giải quyết bằng các thuật toán gợi ý truyền thống không cần AI sâu).
 ```
